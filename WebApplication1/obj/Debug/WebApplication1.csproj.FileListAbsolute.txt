@@ -1,0 +1,10 @@
+C:\Users\CAHM878R\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\CAHM878R\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\CAHM878R\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\CAHM878R\source\repos\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\CAHM878R\source\repos\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\CAHM878R\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\CAHM878R\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\CAHM878R\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\CAHM878R\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\CAHM878R\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
